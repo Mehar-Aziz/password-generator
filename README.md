@@ -19,5 +19,5 @@ It then randomly selects characters from predefined lists of letters, symbols, a
    cd password-generator
 2. **Run the program**
     ```sh
-    python password_generator.py
+    python main.py
 
